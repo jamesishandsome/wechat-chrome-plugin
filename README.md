@@ -8,7 +8,7 @@
 3. 解压到某一个文件夹
 4. 打开浏览器，进入插件管理(chrome中是more tools->extensions)
 5. 添加插件(chrome中是Load unpacked)， 选中之前解压的整个文件夹
-6. 打开https://wx.qq.com/?target=t 用手机登陆就好啦
+6. 打开https://wx.qq.com/?target=t 用手机扫码登陆就好啦
 
 以上插件暂时还在chrome商店审核中，所以暂时只能手动下载。等商店审核上架之后，我会更新在github.
 
